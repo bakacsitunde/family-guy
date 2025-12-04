@@ -1,0 +1,52 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+.tartalom{
+    width: 700px;
+    
+}
+
+html{
+    background-image: url(forras/familyguy.jpg);
+    background-repeat: no-repeat;
+    background-size: 300px;
+    background-position: 750px 50px;
+    background-attachment: fixed;
+}
+
+body{
+    border: 5px solid #009dd4;
+    max-width: 1300px;
+}
+
+h1{
+    background-color: #009dd4;
+    color: white;
+    text-align: center;
+    font-variant: small-caps;
+    letter-spacing: 2px;
+    margin: 15px;
+}
+
+h2{
+    color: #009dd4;
+    letter-spacing: 1px;
+    margin: 15px;
+}
+
+p{
+    text-align: justify;
+    text-indent: 15px;
+    margin: 15px;
+}
+
+span{
+    color: #009dd4;
+    font-weight: bold;
+}
+
+.vonal{
+    width: 40%;
+}
